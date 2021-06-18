@@ -7,6 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-    <p></p>
+    <section></section>
+    <section></section>
+    <section></section>
+    <section></section>
+    <section></section>
+    <section></section>
 </body>
 </html>
